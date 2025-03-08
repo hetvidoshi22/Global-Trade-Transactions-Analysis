@@ -19,7 +19,10 @@ The dataset (**trade_transaction_data.xlsx**) contains **10 columns**:
 | **Mode_of_Transport** | Transport method (Air, Sea, Rail, Road)  |
 | **Incoterms**         | Trade agreement terms (EXW, FOB, CIF, etc.)  |
 
-> **🔹 Note:** This dataset was generated using ChatGPT and does not represent real-world trade data. It is meant for learning and analytical practice only.
+
+> > **🔹 Note:** This dataset is dummy data created for learning and analytical practice only.  
+> It does not represent real-world trade transactions.
+
 
 ### Key Insights  
 
@@ -33,9 +36,8 @@ The dataset (**trade_transaction_data.xlsx**) contains **10 columns**:
 📌 Most used **transportation methods** for high-value goods.  
 
 #### 💰Effect of Incoterms on Trade Costs  
- Analyzed which **Incoterms** are most commonly used and how they affect trade pricing.  
-
-### 🛠 Technologies Used  
-**Python** (Pandas, NumPy, Matplotlib, Seaborn)  
-**Jupyter Notebook** for data analysis  
-
+- Analyzed which **Incoterms** are most commonly used and how they affect trade pricing.  
+ 
+### 🛠️ Technologies Used
+- **🐍 Python** (Pandas, NumPy, Matplotlib, Seaborn)  
+- **📓 Jupyter Notebook** for data analysis
