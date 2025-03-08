@@ -1,4 +1,5 @@
-📊 Global Trade Transactions Analysis 🌍
+#📊 Global Trade Transactions Analysis 🌍
+
 Overview
 This project analyzes import and export transactions to understand global trade trends. It looks at trade values, product types, transportation methods, and country-wise trade flows to find useful insights, such as the most traded products and preferred shipping methods.
 
