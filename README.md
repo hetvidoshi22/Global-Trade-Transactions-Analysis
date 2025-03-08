@@ -20,7 +20,7 @@ The dataset (**trade_transaction_data.xlsx**) contains **10 columns**:
 | **Incoterms**         | Trade agreement terms (EXW, FOB, CIF, etc.)  |
 
 
-> > **🔹 Note:** This dataset is dummy data created for learning and analytical practice only.  
+> **🔹 Note:** This dataset is dummy data created for learning and analytical practice only.  
 > It does not represent real-world trade transactions.
 
 
